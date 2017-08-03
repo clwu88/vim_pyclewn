@@ -1,2 +1,6 @@
+# python
 *.pyc
+
+# vim
+*.swp
 tags
