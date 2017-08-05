@@ -24,5 +24,5 @@ put this code to ~/.vimrc between
     Plugin 'clwu88/vim_pyclewn'         " Make pyclewn can be installed though vbundle
 ```
 
-![screenshot_01](https://github.com/clwu88/vim_pyclewn/screenshots/screenshot_01.png)
+![screenshot_01](https://github.com/clwu88/vim_pyclewn/blob/master/screenshots/screenshot_01.png)
 
