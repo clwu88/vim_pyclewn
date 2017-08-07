@@ -21,6 +21,9 @@ put this code to ~/.vimrc between
         " ################ for python2.7 ####################
         let $PYTHONPATH .= vundle#bundle_dir.'/vim_pyclewn/usr/lib64/python2.7/site-packages' " search path for module files
     endif
+    map <F9> :C continue <CR>
+    map <F8> :C next <CR>
+    map <F7> :C step <CR>
     Plugin 'clwu88/vim_pyclewn'         " Make pyclewn can be installed though vbundle
 ```
 
