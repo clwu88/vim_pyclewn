@@ -26,3 +26,5 @@ put this code to ~/.vimrc between
 
 ![screenshot_01](https://github.com/clwu88/vim_pyclewn/blob/master/screenshots/screenshot_01.png)
 
+![screenshot_02](https://github.com/clwu88/vim_pyclewn/blob/master/screenshots/screenshot_02.png)
+
