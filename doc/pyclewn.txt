@@ -583,6 +583,10 @@ one may:
         +       toggle the breakpoint state between enable/disable
         CTRL-K  delete the breakpoint
 
+
+(clewn)_backtrace, (clewn)_breakpoints also support t key
+ to open and swap to another tab.
+
 Pyclewn creates those three windows upon starting except when the "--window"
 option is set to "none". See |pyclewn-windows| to customize the
 disposition of the windows.
